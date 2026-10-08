@@ -1,0 +1,6 @@
+{
+  "name": "B-CLASS",
+  "description": "Beyond Classroom Learning Adaptive Smart System - Platform pembelajaran digital adaptif berbasis AI dan Learning Analytics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
